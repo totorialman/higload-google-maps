@@ -123,4 +123,4 @@ MAU: **2 млрд пользователей**[^1]
 [^4]: [Как часто россияне используют геосервисы](https://iom.anketolog.ru/2020/02/12/geoservisy)  
 [^5]: [Размер тайлов и кэша OSM](https://switch2osm.org/serving-tiles/plan/)  
 [^6]: [Google Maps Statistics 2024](https://www.onthemap.com/blog/google-maps-statistics/)  
-[^7]: [API](https://developers.google.com/maps/documentation/places/web-service/data-fields?utm_source=chatgpt.com&hl=ru)
+[^7]: [API](https://developers.google.com/maps/documentation/places/web-service/data-fields)
