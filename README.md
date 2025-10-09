@@ -312,7 +312,9 @@ NGINX выбран как оптимальное L7-решение: он под�
 
 # 5. Логическая схема БД
 
-<img width="1506" height="742" alt="image" src="https://github.com/user-attachments/assets/c8f01809-f060-4bd7-992f-2c5cbf031649" />
+<img width="916" height="649" alt="image" src="https://github.com/user-attachments/assets/68e4262a-affb-4ce3-9bdc-5a6ee9e011e0" />
+
+
 
 
 ## Размеры таблиц
