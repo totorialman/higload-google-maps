@@ -564,7 +564,7 @@ NGINX выбран как оптимальное L7-решение: он под�
   - **Alertmanager** отправляет алерты.
 
 # 10. Схема проекта
-<img width="952" height="1101" alt="overall drawio-Страница — 3 drawio" src="https://github.com/user-attachments/assets/748e8559-de6b-445a-8e39-74e35608057f" />
+![overall drawio-Страница — 3](https://github.com/user-attachments/assets/361258c5-96ac-4439-a04f-70b228b89fe2)
 
 # 11. Список серверов
 
