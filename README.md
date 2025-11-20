@@ -669,13 +669,13 @@ NGINX выбран как оптимальное L7-решение: он под�
 
 | Компонент                   | Конфигурация (аналог)                                | Кол-во | Цена/мес (₽) | Общая сумма (₽/мес) | Источник |
 |----------------------------|------------------------------------------------------|--------|---------------|----------------------|----------|
-| **NGINX L4 / L7**          | Hetzner CCX22 (4 vCPU, 8 ГБ RAM, 10 Гбит/с)         | 358    | 5 400         | 1 933 200            | [Hetzner Cloud — CCX22](https://www.hetzner.com/cloud) |
-| **NGINX CDN**              | Selectel VPS-4 (8 vCPU, 16 ГБ RAM, SSD, 1 Гбит/с)   | 284    | 7 200         | 2 044 800            | [Selectel — VPS](https://selectel.ru/services/cloud/vps/) |
-| **Go-нода (K8s worker)**   | Cloud.ru — m3.medium (32 vCPU, 128 ГБ RAM, NVMe)     | 31     | 34 600        | 1 072 600            | [Cloud.ru — цены](https://cloud.ru/ru/prices) |
-| **PostgreSQL RO**          | Selectel Dedicated — EPYC 7543, 384 ГБ RAM, NVMe     | 24     | 29 000        | 696 000              | [Selectel — Dedicated](https://selectel.ru/services/dedicated/) |
-| **PostgreSQL RW**          | Selectel Dedicated — EPYC 9554, 512 ГБ RAM, NVMe     | 3      | 42 000        | 126 000              | — // — |
-| **Cassandra**              | Ru-Cloud — Xeon Gold 5318N, 768 ГБ RAM, 32 ТБ SSD   | 48     | 18 500        | 888 000              | [Ru-Cloud — серверы](https://ru.cloud/) |
-| **Хранение тайлов**        | Selectel Object Storage (2 ТБ, 99.9% SLA)            | —      | 1 200         | 1 200                | [Selectel — Object Storage](https://selectel.ru/services/object-storage/) |
+| **NGINX L4 / L7**          | Hetzner CCX22 (4 vCPU, 8 ГБ RAM, 10 Гбит/с)         | 358    | 5 400         | 1 933 200            | Hetzner Cloud — CCX22|
+| **NGINX CDN**              | Selectel VPS-4 (8 vCPU, 16 ГБ RAM, SSD, 1 Гбит/с)   | 284    | 7 200         | 2 044 800            | Selectel — VPS |
+| **Go-нода (K8s worker)**   | Cloud.ru — m3.medium (32 vCPU, 128 ГБ RAM, NVMe)     | 31     | 34 600        | 1 072 600            | Cloud.ru — цены |
+| **PostgreSQL RO**          | Selectel Dedicated — EPYC 7543, 384 ГБ RAM, NVMe     | 24     | 29 000        | 696 000              | Selectel — Dedicated |
+| **PostgreSQL RW**          | Selectel Dedicated — EPYC 9554, 512 ГБ RAM, NVMe     | 3      | 42 000        | 126 000              | — |
+| **Cassandra**              | Ru-Cloud — Xeon Gold 5318N, 768 ГБ RAM, 32 ТБ SSD   | 48     | 18 500        | 888 000              | Ru-Cloud — серверы |
+| **Хранение тайлов**        | Selectel Object Storage (2 ТБ, 99.9% SLA)            | —      | 1 200         | 1 200                | Selectel — Object Storage |
 | **ИТОГО**                  | —                                                    | —      | —             | **6 762 000**        | — |
 
 ---
