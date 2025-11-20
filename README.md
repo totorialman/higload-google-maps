@@ -672,6 +672,7 @@ NGINX выбран как оптимальное L7-решение: он под�
 | **NGINX L4 / L7**          | Hetzner CCX22 (4 vCPU, 8 ГБ RAM, 10 Гбит/с)         | 358    | 5 400         | 1 933 200            | Hetzner Cloud — CCX22|
 | **NGINX CDN**              | Selectel VPS-4 (8 vCPU, 16 ГБ RAM, SSD, 1 Гбит/с)   | 284    | 7 200         | 2 044 800            | Selectel — VPS |
 | **Go-нода (K8s worker)**   | Cloud.ru — m3.medium (32 vCPU, 128 ГБ RAM, NVMe)     | 31     | 34 600        | 1 072 600            | Cloud.ru — цены |
+| **Kubernetes control plane**   | Cloud.ru — s3.small (4 vCPU, 16 ГБ RAM, SSD)     | 24     | 5 200       | 124 800            | Cloud.ru — цены |
 | **PostgreSQL RO**          | Selectel Dedicated — EPYC 7543, 384 ГБ RAM, NVMe     | 24     | 29 000        | 696 000              | Selectel — Dedicated |
 | **PostgreSQL RW**          | Selectel Dedicated — EPYC 9554, 512 ГБ RAM, NVMe     | 3      | 42 000        | 126 000              | — |
 | **Cassandra**              | Ru-Cloud — Xeon Gold 5318N, 768 ГБ RAM, 32 ТБ SSD   | 48     | 18 500        | 888 000              | Ru-Cloud — серверы |
